@@ -42,8 +42,11 @@ python3 process_images.py
 📂 Directory Structure
 
 /image-processing-python
+
 │── process_images.py   # Main Python script
+
 │── README.md           # Project documentation
+
 └── images/             # Folder containing input images
 
 🔗 How It Works
