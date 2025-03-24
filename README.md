@@ -2,6 +2,7 @@
 Python script to rotate, resize, and convert images using PIL.
 
 🖼️ Image Processing Script (Python + PIL)
+
 📌 Overview
 This Python script automates the process of rotating, resizing, and converting images to the required format.
 It was developed as part of a hands-on lab to process a batch of images efficiently using the Pillow (PIL) library.
