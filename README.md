@@ -14,13 +14,11 @@ It was developed as part of a hands-on lab to process a batch of images efficien
 ✔ Saves output files in /opt/icons/ directory
 
 🚀 Installation & Setup
+
 1️⃣ Install Dependencies
 Make sure you have Python 3 installed. Then, install the required package:
-
-bash
-Copy
-Edit
 pip3 install pillow
+
 2️⃣ Clone the Repository
 bash
 Copy
