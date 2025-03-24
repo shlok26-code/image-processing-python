@@ -24,29 +24,28 @@ It was developed as part of a hands-on lab to process a batch of images efficien
 
 1️⃣ Install Dependencies
 Make sure you have Python 3 installed. Then, install the required package:
+
 pip3 install pillow
 
 2️⃣ Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/YOUR-USERNAME/image-processing-python.git
+
 cd image-processing-python
+
 3️⃣ Run the Script
+
 Execute the script to process images:
 
-bash
-Copy
-Edit
 python3 process_images.py
+
 📂 Directory Structure
-bash
-Copy
-Edit
+
 /image-processing-python
 │── process_images.py   # Main Python script
 │── README.md           # Project documentation
 └── images/             # Folder containing input images
+
 🔗 How It Works
 The script iterates through each image in the /images/ folder.
 
@@ -55,6 +54,7 @@ Applies transformations (rotate, resize, convert format).
 Saves the modified images to /opt/icons/.
 
 🛠️ Technologies Used
+
 Python 3
 
 Pillow (PIL) Library
